@@ -1,0 +1,62 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editors e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Ambientes Virtuais Python (caso tenha)
+venv/
+env/
+.env
+.env.local
+
+# Arquivos de Teste e Cobertura
+coverage/
+.nyc_output/
+
+# Arquivos de Log
+*.log
+logs/
+
+# Arquivos Temporários e de Cache
+*.tmp
+*.temp
+.cache/
+dist/
+build/
+
+# Arquivos de Configuração Sensíveis (se houver)
+.env
+.env.local
+secrets.json
+config.local.js
+
+# Arquivos Específicos do Windows
+*.exe
+*.dll
+*.so
